@@ -1,5 +1,8 @@
 # JetBrains
 .idea/
 
+# Composer dependencies resolver
+composer.lock
+
 # Vendor
 /vendor/
