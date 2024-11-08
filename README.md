@@ -17,6 +17,23 @@ This repository contains only skeleton files for the FireHub project.
 
 The FireHub official repository is [here](https://github.com/The-FireHub-Project/Core).
 
+<table>
+    <tr>
+        <th colspan="2">About repository</th>
+    </tr>
+    <tr>
+        <td colspan="2"><img src="https://raw.githubusercontent.com/The-FireHub-Project/Skeleton/refs/heads/docs/resources/graphics/images/metrics/base.svg" alt="base" /></td>
+    </tr>
+    <tr>
+        <th width="600px">Organization projects</th>
+        <th width="600px">Recent activity</th>
+    </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/The-FireHub-Project/.github/refs/heads/master/resources/graphics/images/metrics/projects.svg" alt="projects" /></td>
+        <td><img src="https://raw.githubusercontent.com/The-FireHub-Project/Skeleton/refs/heads/docs/resources/graphics/images/metrics/activity.svg" alt="activity" /></td>
+    </tr>
+</table>
+
 ## Installation
 
 ![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/firehub/skeleton/php?version=v0.1.0)
@@ -38,6 +55,17 @@ The maintainer of this repo has not yet edited this section.
 
 Read our [Support](https://github.com/The-FireHub-Project/.github/blob/master/.github/SUPPORT.md) file that explains how you can get help with the repository and project.
 
+<table>
+    <tr>
+        <th width="600px">Issue and pull request status</th>
+        <th width="600px">Mostly used languages</th>
+    </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/The-FireHub-Project/Skeleton/refs/heads/docs/resources/graphics/images/metrics/followup.svg" alt="followup" /></td>
+        <td><img src="https://raw.githubusercontent.com/The-FireHub-Project/Skeleton/refs/heads/docs/resources/graphics/images/metrics/languages.svg" alt="languages" /></td>
+    </tr>
+</table>
+
 ## Community
 
 ![GitHub watchers](https://img.shields.io/github/watchers/The-FireHub-Project/Skeleton?style=social)
@@ -52,6 +80,25 @@ Read our [Support](https://github.com/The-FireHub-Project/.github/blob/master/.g
 
 - Project authors can be found [here](.github/AUTHORS.md).
 - The full list of individual contributors can be found [here](.github/CONTRIBUTORS.md).
+
+<table>
+    <tr>
+        <th width="600px">People involved</th>
+        <th width="600px">Contributors</th>
+    </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/The-FireHub-Project/Skeleton/refs/heads/docs/resources/graphics/images/metrics/people.svg" alt="people" /></td>
+        <td><img src="https://raw.githubusercontent.com/The-FireHub-Project/Skeleton/refs/heads/docs/resources/graphics/images/metrics/contributors.svg" alt="contributors" /></td>
+    </tr>
+    <tr>
+        <th width="600px">Sponsors</th>
+        <th width="600px">Stargazers</th>
+    </tr>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/The-FireHub-Project/Skeleton/refs/heads/docs/resources/graphics/images/metrics/sponsors.svg" alt="sponsors" /></td>
+        <td><img src="https://raw.githubusercontent.com/The-FireHub-Project/Skeleton/refs/heads/docs/resources/graphics/images/metrics/stargazers.svg" alt="stargazers" /></td>
+    </tr>
+</table>
 
 ***
 
