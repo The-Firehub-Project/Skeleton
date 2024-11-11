@@ -1,6 +1,6 @@
 # Release Notes for v0.x.x.alpha
 
-## v0.1.1 – (2024-11-11)
+## [v0.1.1](https://github.com/The-FireHub-Project/Skeleton/compare/v0.1.0...v0.1.1) – (2024-11-11)
 
 ### Added
 - Create web.config ([#1](https://github.com/The-FireHub-Project/Skeleton/issues/1), [b22f90d](https://github.com/The-FireHub-Project/Skeleton/commit/b22f90d))
