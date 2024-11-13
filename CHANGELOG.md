@@ -1,5 +1,13 @@
 # Release Notes for v0.x.x.alpha
 
+## [v0.1.2](https://github.com/The-FireHub-Project/Skeleton/compare/v0.1.1...v0.1.2) – (2024-11-13)
+
+### Added
+- Create default apache config ([#2](https://github.com/The-FireHub-Project/Skeleton/issues/2), [dc00166](https://github.com/The-FireHub-Project/Skeleton/commit/dc00166))
+- Create Dockerfile ([#2](https://github.com/The-FireHub-Project/Skeleton/issues/2), [96a16b8](https://github.com/The-FireHub-Project/Skeleton/commit/96a16b8))
+- Create .dockerignore ([#2](https://github.com/The-FireHub-Project/Skeleton/issues/2), [8934720](https://github.com/The-FireHub-Project/Skeleton/commit/8934720))
+- Create compose.yaml ([#2](https://github.com/The-FireHub-Project/Skeleton/issues/2), [fae75f3](https://github.com/The-FireHub-Project/Skeleton/commit/fae75f3))
+
 ## [v0.1.1](https://github.com/The-FireHub-Project/Skeleton/compare/v0.1.0...v0.1.1) – (2024-11-11)
 
 ### Added
