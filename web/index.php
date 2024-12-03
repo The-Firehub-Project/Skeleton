@@ -14,3 +14,6 @@
  *
  * @version GIT: $Id$ Blob checksum.
  */
+
+/** ### Bootstrap FireHub Framework */
+echo (require __DIR__.'/../bootstrap/app.php')->boot();
