@@ -1,5 +1,12 @@
 # Release Notes for v0.x.x.alpha
 
+## [v0.1.3](https://github.com/The-FireHub-Project/Skeleton/compare/v0.1.2...v0.1.3) – (2024-12-03)
+
+### Added
+- Create an App bootstrap file ([#3](https://github.com/The-FireHub-Project/Skeleton/issues/3), [e454642](https://github.com/The-FireHub-Project/Skeleton/commit/e454642))
+- Create a Console bootstrap file ([#3](https://github.com/The-FireHub-Project/Skeleton/issues/3), [b627dfc](https://github.com/The-FireHub-Project/Skeleton/commit/b627dfc))
+- Create a torch file ([#3](https://github.com/The-FireHub-Project/Skeleton/issues/3), [fb09fec](https://github.com/The-FireHub-Project/Skeleton/commit/fb09fec))
+
 ## [v0.1.2](https://github.com/The-FireHub-Project/Skeleton/compare/v0.1.1...v0.1.2) – (2024-11-13)
 
 ### Added
