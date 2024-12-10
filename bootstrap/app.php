@@ -15,10 +15,8 @@
  * @version GIT: $Id$ Blob checksum.
  */
 
-//require __DIR__.'/../../Core/src/firehub.FireHub.php';
+//require __DIR__.'/../../Core/src/initializers/firehub.FireHubConfigurator.php';
 require 'phar://'.__DIR__.'/../vendor/firehub/core/phar/core.min.phar/initializers/firehub.FireHubConfigurator.php';
-require 'phar://'.__DIR__.'/../vendor/firehub/core/phar/core.min.phar/initializers/firehub.Kernel.php';
-require 'phar://'.__DIR__.'/../vendor/firehub/core/phar/core.min.phar/kernel/firehub.Http.php';
 
 use FireHub\Core\Initializers\FireHubConfigurator;
 use FireHub\Core\Kernel\Http;
@@ -29,9 +27,10 @@ use FireHub\Core\Kernel\Http;
  *
  * @return \FireHub\Core\FireHub
  */
-return new FireHubConfigurator()
+return new FireHubConfigurator(dirname(__DIR__))
     ->withBootloaders([
         //
     ])
+    //->withAutoloadCache(new \FireHub\Core\Initializers\Autoload\Cache\Apcu())
     ->withKernel(Http::class)
     ->create();

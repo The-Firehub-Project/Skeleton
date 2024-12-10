@@ -16,8 +16,6 @@
  */
 
 require 'phar://'.__DIR__.'/../vendor/firehub/core/phar/core.min.phar/initializers/firehub.FireHubConfigurator.php';
-require 'phar://'.__DIR__.'/../vendor/firehub/core/phar/core.min.phar/initializers/firehub.Kernel.php';
-require 'phar://'.__DIR__.'/../vendor/firehub/core/phar/core.min.phar/kernel/firehub.Console.php';
 
 use FireHub\Core\Initializers\FireHubConfigurator;
 use FireHub\Core\Kernel\Console;
@@ -28,7 +26,7 @@ use FireHub\Core\Kernel\Console;
  *
  * @return \FireHub\Core\FireHub
  */
-return new FireHubConfigurator()
+return new FireHubConfigurator(dirname(__DIR__))
     ->withBootloaders([
         //
     ])
