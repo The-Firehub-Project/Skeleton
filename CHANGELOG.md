@@ -3,6 +3,8 @@
 ## [v0.1.4](https://github.com/The-FireHub-Project/Skeleton/compare/v0.1.3...v0.1.4) – (2024-12-10)
 
 ### Added
+- Added new options to bootstrap ([167fb33](https://github.com/The-FireHub-Project/Skeleton/commit/167fb33))
+- Added composer autoload ([6accf99](https://github.com/The-FireHub-Project/Skeleton/commit/6accf99))
 
 ## [v0.1.3](https://github.com/The-FireHub-Project/Skeleton/compare/v0.1.2...v0.1.3) – (2024-12-03)
 
