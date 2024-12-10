@@ -15,5 +15,8 @@
  * @version GIT: $Id$ Blob checksum.
  */
 
+/** ### Register the Composer autoloader */
+require __DIR__.'/../vendor/autoload.php';
+
 /** ### Bootstrap FireHub Framework */
 echo (require __DIR__.'/../bootstrap/app.php')->boot();
